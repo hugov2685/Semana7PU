@@ -1,0 +1,35 @@
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.deps.json
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.json
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.dev.json
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.pdb
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.CoreCompileInputs.cache
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfoInputs.cache
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfo.cs
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
+C:\Users\amongem\source\repos\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.deps.json
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.json
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.dev.json
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.dll
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.pdb
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.AssemblyReference.cache
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfoInputs.cache
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfo.cs
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.CoreCompileInputs.cache
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.genruntimeconfig.cache
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.deps.json
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.json
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.dev.json
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.dll
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\bin\Debug\netcoreapp2.1\Semana7PU.pdb
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.GeneratedMSBuildEditorConfig.editorconfig
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfoInputs.cache
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.AssemblyInfo.cs
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.CoreCompileInputs.cache
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
+D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.genruntimeconfig.cache
