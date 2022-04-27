@@ -16,6 +16,8 @@ namespace P_Calidad
         [DataRow(4, 0, 4)]
         [DataRow(0, 0, 0)]
         [DataRow(1, 0, 1)]
+
+        [TestMethod]
         public void Suma_retonaValor(int a, int b, int esperado)
         {
             //arrange
