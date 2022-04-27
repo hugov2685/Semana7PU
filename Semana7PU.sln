@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana7PU", "Semana7PU\Semana7PU.csproj", "{A11B23A4-CAF9-40C2-9F21-62C55A7898EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semana7PU", "Semana7PU\Semana7PU.csproj", "{A11B23A4-CAF9-40C2-9F21-62C55A7898EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana7Test", "Semana7Test\Semana7Test.csproj", "{265490D2-381D-4D4E-88B4-9B451B0ABDAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semana7Test", "Semana7Test\Semana7Test.csproj", "{265490D2-381D-4D4E-88B4-9B451B0ABDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P-Calidad", "P-Calidad\P-Calidad.csproj", "{2133BAE4-38BC-40C9-9E08-D879BCDC0071}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{265490D2-381D-4D4E-88B4-9B451B0ABDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{265490D2-381D-4D4E-88B4-9B451B0ABDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{265490D2-381D-4D4E-88B4-9B451B0ABDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2133BAE4-38BC-40C9-9E08-D879BCDC0071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2133BAE4-38BC-40C9-9E08-D879BCDC0071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2133BAE4-38BC-40C9-9E08-D879BCDC0071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2133BAE4-38BC-40C9-9E08-D879BCDC0071}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

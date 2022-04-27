@@ -62,12 +62,7 @@ D:\UMCA\7 I CUATRIMESTRE 2022\CALIDAD DE SOFTWARE I\7\PROYECT_SEM7\Semana7PU_HV\
 C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7PU.deps.json
 C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.json
 C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7PU.runtimeconfig.dev.json
-C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.deps.json
-C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.json
-C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.dev.json
 C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.dll
 C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.pdb
 C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7PU.dll
@@ -80,4 +75,9 @@ C:\Repositorios\ProyectoCalidad\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.
 C:\Repositorios\ProyectoCalidad\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.csproj.CopyComplete
 C:\Repositorios\ProyectoCalidad\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.dll
 C:\Repositorios\ProyectoCalidad\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.pdb
+C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.json
+C:\Repositorios\ProyectoCalidad\Semana7Test\bin\Debug\netcoreapp2.1\Semana7Test.runtimeconfig.dev.json
 C:\Repositorios\ProyectoCalidad\Semana7Test\obj\Debug\netcoreapp2.1\Semana7Test.genruntimeconfig.cache
