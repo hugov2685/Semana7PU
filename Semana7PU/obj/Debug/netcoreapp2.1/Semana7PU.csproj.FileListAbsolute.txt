@@ -45,3 +45,4 @@ C:\Repositorios\ProyectoCalidad\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.cspr
 C:\Repositorios\ProyectoCalidad\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.dll
 C:\Repositorios\ProyectoCalidad\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.pdb
 C:\Repositorios\ProyectoCalidad\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.genruntimeconfig.cache
+C:\Repositorios\ProyectoCalidad\Semana7PU\obj\Debug\netcoreapp2.1\Semana7PU.csproj.AssemblyReference.cache
