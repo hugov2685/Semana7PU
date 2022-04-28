@@ -9,7 +9,7 @@ namespace Semana7Test
         [DataRow(4,4,8)]
         [DataRow(4, 0, 4)]
         [DataRow(0, 0, 0)]
-        [DataRow(1, 1, 2)]
+        [DataRow(1, 1, 3)]
 
         [TestMethod]
         public void Suma_retonaValor(int a,int b, int esperado)
